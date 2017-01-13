@@ -6,6 +6,8 @@ Vlad Alive is here.
 
 **Self-starter**. Entrepreneur. Founder of digital workshop [Ruby Cluster](https://rubycluster.com).
 
+**Idea Machine**. Restless mind. Focused on solutions. Improving everything. 1% improvement every day. 
+
 **Creator** of:
 
 * [10 Ideas Club](https://10ideas.club)
@@ -24,6 +26,8 @@ Vlad Alive is here.
 [read my blog on Medium](https://m.vladalive.com)
 
 [read my tweets](http://twitter.com/vladalive)
+
+[ask me on Quora](https://www.quora.com/profile/Vlad-Alive)
 
 ## Let's connect
 
