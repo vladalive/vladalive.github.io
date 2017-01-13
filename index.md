@@ -43,6 +43,8 @@ Vlad Alive is here.
 
 [drop me an Email](mailto:vladalive@gmail.com)
 
+[drop me a message via form](https://goo.gl/forms/cfQXHh2SIfbDwWai2)
+
 chat with me on [Fleep](https://fleep.io): vladalive@fleep.io
 
 chat with me via Hangouts: vladalive@gmail.com
