@@ -1,6 +1,23 @@
-## Here will be dragons
-
 Vlad Alive is here.
+
+## About me (long story short)
+
+**Software Engineer**. Architect. Builder. Obsessed with Quality and Innovation.
+
+**Self-starter**. Entrepreneur. Founder of digital workshop [Ruby Cluster](https://rubycluster.com).
+
+**Creator** of:
+
+* [10 Ideas Club](https://10ideas.club)
+* [Play Wheather](http://playweather.info)
+
+**Problem solver**. Love to work close with fearless people who have grand plan to make this world a little better. Best at coming up with roadmap solutions and action plans. Helped startups to prototype their ideas and launch MVPs.
+
+**Learner**. Long time ago started as HTML/CSS codemonkey webmaster, then seduced by "Ruby on Rails" webapp development, got even deeper with JS frameworks like Backbone and Marionette, baked hybrid mobile apps. Now bootstrapping and managing development teams to achieve best results together. Regularly reading industry articles to be on cutting edge of technology.
+
+**Mentor**. Sharing articles and news on my educational Fleep channel. Helping developers to overcome learning curve of new technologies and tools. Sometimes write stuff for tech and non-tech auditory.
+
+---
 
 ## Read my writings
 
