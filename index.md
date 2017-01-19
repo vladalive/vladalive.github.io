@@ -2,7 +2,9 @@ Vlad Alive is here.
 
 ## About me (long story short)
 
-**Software Engineer**. Architect. Builder. Obsessed with Quality and Innovation.
+**Consultant**. Your "go-to" technology guy. CTO for hire. Helping startup founders and business owners to develop and implement technology strategies.
+
+**Seasoned Software Engineer**. Architect. Builder. Obsessed with Quality and Innovation.
 
 **Self-starter**. Entrepreneur. Founder of digital workshop [Ruby Cluster](https://rubycluster.com).
 
