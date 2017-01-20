@@ -13,7 +13,7 @@ Vlad Alive is here. [How I can help you](/services).
 **Creator** of:
 
 * [10 Ideas Club](https://10ideas.club)
-* [Play Wheather](http://playweather.info)
+* [Play Weather](http://playweather.info)
 
 **Problem solver**. Love to work close with fearless people who have grand plan to make this world a little better. Best at coming up with roadmap solutions and action plans. Helped startups to prototype their ideas and launch MVPs.
 
