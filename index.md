@@ -1,4 +1,4 @@
-Vlad Alive is here.
+Vlad Alive is here. [How I can help you](/services).
 
 ## About me (long story short)
 
