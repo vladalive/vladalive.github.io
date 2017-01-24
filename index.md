@@ -52,3 +52,5 @@ chat with me on [Fleep](https://fleep.io): vladalive@fleep.io
 chat with me via Hangouts: vladalive@gmail.com
 
 chat with me via Skype: vlad.alive
+
+## [Ask me to help you](https://goo.gl/forms/7wh9VrOyUTHplWug1)
