@@ -47,8 +47,6 @@ Vlad Alive is here. [How I can help you](/services).
 
 [drop me a message via form](https://goo.gl/forms/cfQXHh2SIfbDwWai2)
 
-chat with me on [Fleep](https://fleep.io): vladalive@fleep.io
-
 chat with me via Hangouts: vladalive@gmail.com
 
 chat with me via Skype: vlad.alive
