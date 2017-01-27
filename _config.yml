@@ -1,4 +1,21 @@
+gems:
+  - jekyll-seo-tag
+
 theme: jekyll-theme-tactile
 repository: vladalive/vladalive.github.io
 title: Vlad Alive
 show_downloads: false
+url: vladalive.com
+twitter:
+  username: vladalive
+author:
+  twitter: vladalive
+social:
+  name: Vlad Alive
+  links:
+    - https://twitter.com/vladalive
+    - https://linkedin.com/in/vladalive
+    - https://github.com/vladalive
+    - https://www.facebook.com/vlad.alive
+    - https://www.instagram.com/vlad_alive
+    - https://www.quora.com/profile/Vlad-Alive
