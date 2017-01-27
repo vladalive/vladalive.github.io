@@ -27,15 +27,15 @@ Vlad Alive is here. [How I can help you](/services).
 
 [read my blog on Medium](https://m.vladalive.com)
 
-[read my tweets](http://twitter.com/vladalive)
+[read my tweets](https://twitter.com/vladalive)
 
 [ask me on Quora](https://www.quora.com/profile/Vlad-Alive)
 
 ## Let's connect
 
-[join my network on LinkedIn](http://linkedin.com/in/vladalive)
+[join my network on LinkedIn](https://linkedin.com/in/vladalive)
 
-[follow me on GitHub](http://github.com/vladalive)
+[follow me on GitHub](https://github.com/vladalive)
 
 [be my friend on FaceBook](https://www.facebook.com/vlad.alive)
 
