@@ -8,7 +8,7 @@ How I can help you
 
 ## Retrospective analytics
 
-* Full retrospective code review
+* [Full retrospective code review](/services/full-retrospective-code-review)
 * Development workflow audit
 * Recommending improved workflows, better tools and libraries
 
