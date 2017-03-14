@@ -19,12 +19,24 @@ ul
     margin-left: 1rem
 
 header
+  a.avatar
+    float: left
+    margin: 0 1rem 0 0
+    img
+      margin: 0
+      width: 150px
+      height: 150px
+      border-radius: 5px
   h1
-    margin: 0
+    margin: 0.5rem 0
+    font-size: 72px
     a
       color: inherit
+      &:hover
+        text-decoration: none
 
 nav.nav_main
+  clear: both
   overflow: hidden
   font-size: 120%
   ul
@@ -42,13 +54,8 @@ nav.nav_main
           color: #d5000d
 
 .social
-  float: right
-  font-size: 120%
-  margin: -3rem 0 0
-  @media only screen and (max-width: 767px)
-    float: none
-    margin: -0.25rem 0 1rem
-    font-size: 140%
+  margin: -0.25rem 0 1rem
+  font-size: 140%
   a
     margin-right: 0.25rem
     color: #555
