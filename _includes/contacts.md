@@ -22,6 +22,8 @@
 
 [drop me a message via form](https://goo.gl/forms/cfQXHh2SIfbDwWai2)
 
+[chat with me via Telegram](https://telegram.me/vladalive)
+
 chat with me via Hangouts: vladalive@gmail.com
 
 chat with me via Skype: vlad.alive
