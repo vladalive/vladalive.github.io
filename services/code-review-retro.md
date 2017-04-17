@@ -11,21 +11,21 @@ You need it if you are:
 
 1\. **CEO, Startup Founder or Project Manager**,
 who want to identify the quality of written code by developers
-or to audit efforts and results of your development team
+or to audit the efforts and results of your development team
 
 2\. **CTO or Development Team Lead**, who want:
 
-* to reduce technical debt
-* to make code easier to read, maintain and extend
-* to adopt industry best practices
-* to find weaknesses in code architecture
+* to reduce the technical debt
+* to make the code easier to read, maintain and extend
+* to adopt best industry practices
+* to find weaknesses in the code architecture
 * to develop the common coding approach for the whole team
 
 3\. **Software Engineer** who want to write code better
 
 ## My ultimate goals of doing full retrospective code review
 
-* to identify the problems preventing from good progress
+* to identify the problems preventing from a good progress
 * to propose solutions for improvement
 * to get the development team on the same page
 * to reduce the cost of change requests in the future
@@ -46,12 +46,12 @@ or to audit efforts and results of your development team
 ## What's supported and covered? (work scope)
 
 * covered code: one code repository
-* languages: Ruby, JavaScript, HTML, CSS
+* languages: JavaScript, Ruby, HTML, CSS
 
 **Supported Code Syntaxes**:
 
-* Ruby: 2.X.X, 1.9.X
 * JavaScript: [Vanilla JavaScript](http://vanilla-js.com), [CoffeeScript](http://coffeescript.org), [ECMAScript 6](http://es6-features.org)
+* Ruby: 2.X.X, 1.9.X
 * HTML Templating: [HTML 5](https://en.wikipedia.org/wiki/HTML5), [Haml](http://haml.info), [Jade](http://jade-lang.com), [Handlebars](http://handlebarsjs.com/), [Mustache](https://mustache.github.io/#demo), [Dust](http://www.dustjs.com)
 * CSS Styles: [CSS 3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), [Sass](http://sass-lang.com), [Stylus](http://stylus-lang.com), [Less](http://lesscss.org)
 
@@ -67,21 +67,21 @@ or to audit efforts and results of your development team
 
 ## How we will work together (steps)
 
-* We are signing NDA (if required)
-* I'm getting initial information about project
-* I'm getting access to code
-* You're making payment
-* I'm doing Code Review
-* I'm delivering results
+* We are signing the NDA (if required)
+* I'm getting the initial information about project
+* I'm getting access to the code
+* You're making the payment
+* I'm doing the Code Review
+* I'm delivering the results
 * You're asking questions and providing feedback
-* You're executing action plan for improvements
+* You're executing the action plan for improvements
 
 ## What will you get? (results)
 
-* Code review performed by senior software engineer
+* Code review performed by a senior software engineer
 * Detailed analytic report
-* Pull-request with inline comments
-* Action plan to resolve issues
+* Pull-request with the inline comments
+* Action plan to resolve the issues
 
 ---
 

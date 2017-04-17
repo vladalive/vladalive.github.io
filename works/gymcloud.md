@@ -14,7 +14,7 @@ title: GymCloud - Work Showcase
 ## My Role
 
 Initial intention to join the team was simply to become yet another developer.
-But that was extended quickly to something even more valuable. CTO like position.
+But that was extended quickly to something even more valuable. CTO-like position.
 
 * Senior Software Engineer
 * Code Quality Improver
@@ -72,20 +72,20 @@ But that was extended quickly to something even more valuable. CTO like position
 
 * API server app: Ruby on Rails, Grape
 * Web app: Backbone Marionette, Backbone StickIt, Jade, SASS, CoffeeScript, WebPack
-* Mobile app: Ionic, Angular 1, Jade, LESS
+* Mobile app: Ionic, PhoneGap, Angular 1, Jade, LESS
 * Landing pages app: Ruby on Rails, HAML, SASS
-* Continuous Integration: CodeShip, Dokku, Digital Ocean
+* Continuous Integration: CodeShip, Heroku, Dokku, Digital Ocean
 
 ## The Results
 
-* Increased Quality of development workflows, platform architecture, written code, prepared requirements, task estimates
-* Increased platform stability
-* Reduced technical debt
-* Increased development flexibility and ease of extending the platform
+* Increased the Quality of development workflows, platform architecture, written code, prepared requirements, task estimates
+* Increased the platform stability
+* Reduced the technical debt
+* Increased the development flexibility and the ease of extending the platform
 * Development team became reliable, involved, and more organized
 * New features were delivered
 * Tons of bugs were fixed
-* Project was prepared for launch
+* Project was prepared for the launch
 
 ---
 
