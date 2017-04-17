@@ -1,5 +1,6 @@
 gems:
   - jekyll-seo-tag
+  - jemoji
 
 theme: jekyll-theme-tactile
 repository: vladalive/vladalive.github.io
