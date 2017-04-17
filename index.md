@@ -4,7 +4,7 @@ title: Interim CTO for hire
 
 Vlad Alive is here. [How I can help you](/services).
 
-## About me (long story short)
+## About me
 
 **Consultant** :briefcase:
 
