@@ -10,6 +10,8 @@
 
 [join my network on LinkedIn](https://linkedin.com/in/vladalive)
 
+[find me on Angel List](https://angel.co/vladalive)
+
 [follow me on GitHub](https://github.com/vladalive)
 
 [be my friend on FaceBook](https://www.facebook.com/vlad.alive)
