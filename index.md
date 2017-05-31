@@ -41,4 +41,4 @@ Sharing articles and news on my Twitter channel. Helping developers to overcome 
 
 ---
 
-{% include contacts.md %}
+[Let's Connect!](/contact)
