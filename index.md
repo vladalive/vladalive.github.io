@@ -16,7 +16,7 @@ Architect. Builder. Obsessed with Quality and Innovation.
 
 **Self-starter** :rocket:
 
-Entrepreneur. Founder of the digital workshop [Ruby Cluster](https://rubycluster.com).
+Entrepreneur. Founder of the digital workshop [Ruby Cluster](http://rubycluster.com).
 
 **Idea Machine** :bulb:
 
