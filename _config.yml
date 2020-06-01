@@ -1,7 +1,6 @@
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jemoji
 
 theme: jekyll-theme-tactile
 repository: vladalive/vladalive.github.io
