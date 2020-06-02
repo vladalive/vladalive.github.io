@@ -3,6 +3,11 @@ label: Simple Page
 hide_body: false
 display_field: page_title
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
 - name: page_title
   type: text
   config:
