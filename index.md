@@ -1,5 +1,8 @@
 ---
+published: true
+layout: page
 title: Interim CTO for hire
+
 ---
 
 Hi! Vlad Alive is here. [How I can help you](/services).

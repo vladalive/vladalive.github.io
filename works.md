@@ -1,10 +1,10 @@
 ---
-title: Work Cases
-permalink: "/work/showcase/"
-layout: default
 published: true
+permalink: "/work/showcase/"
+layout: page
+title: Work Cases
+page_title: Work Showcase
 
 ---
-# Work Showcase
 
 * [GymCloud](/work/showcase/gymcloud)

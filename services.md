@@ -1,9 +1,11 @@
 ---
+published: true
+permalink: "/services/"
+layout: page
 title: Services
-permalink: /services/
----
+page_title: Services
 
-# Services
+---
 
 How I can help you
 

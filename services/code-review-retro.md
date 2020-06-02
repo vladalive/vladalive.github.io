@@ -1,9 +1,11 @@
 ---
-permalink: /services/full-retrospective-code-review
+published: true
+permalink: "/services/full-retrospective-code-review"
+layout: page
 title: Full retrospective code review
----
+page_title: Full retrospective code review
 
-# Full retrospective code review
+---
 
 ## Who needs it?
 

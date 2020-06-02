@@ -1,9 +1,11 @@
 ---
-permalink: /work/showcase/gymcloud
+published: true
+permalink: "/work/showcase/gymcloud"
+layout: page
 title: GymCloud - Work Showcase
----
+page_title: Work Showcase: GymCloud
 
-# Work Showcase: GymCloud
+---
 
 ## Project Background
 

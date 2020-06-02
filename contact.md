@@ -1,11 +1,11 @@
 ---
-permalink: "/contact"
-layout: default
-title: Contact Me
 published: true
+permalink: "/contact"
+layout: page
+title: Contact Me
+page_title: Contact Me
 
 ---
-# Contact Me
 
 Hi!
 
