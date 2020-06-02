@@ -3,25 +3,6 @@ label: Simple Page
 hide_body: false
 display_field: page_title
 fields:
-- name: title
-  type: text
-  config:
-    required: false
-  label: Title
-- name: page_title
-  type: text
-  config:
-    required: false
-  label: Page Title
-- name: page_content
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Page Content
 - name: default_jekyll_fields
   type: include
   config: {}
