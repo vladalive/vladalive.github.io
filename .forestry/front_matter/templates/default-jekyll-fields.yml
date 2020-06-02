@@ -1,4 +1,19 @@
 ---
 label: Default Jekyll Fields
 hide_body: true
-fields: []
+fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: Permalink
