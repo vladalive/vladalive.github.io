@@ -9,4 +9,5 @@ fields:
   template: default-jekyll-fields
   label: Default Jekyll Fields
 pages:
+- contact.md
 - works.md
