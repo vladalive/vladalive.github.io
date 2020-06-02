@@ -2,11 +2,10 @@
 label: Default Jekyll Fields
 hide_body: true
 fields:
-- name: title
-  type: text
-  config:
-    required: true
-  label: Title
+- name: published
+  type: boolean
+  label: Published
+  default: true
 - name: permalink
   type: text
   config:
@@ -18,7 +17,8 @@ fields:
     required: false
   label: Layout
   hidden: false
-- name: published
-  type: boolean
-  label: Published
-  default: true
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
