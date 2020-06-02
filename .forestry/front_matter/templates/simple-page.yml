@@ -15,4 +15,5 @@ fields:
   label: Page Title
 pages:
 - contact.md
+- index.md
 - works.md

@@ -1,10 +1,10 @@
 ---
-published: true
 layout: page
 title: Interim CTO for hire
+published: false
+page_title: ''
 
 ---
-
 Hi! Vlad Alive is here. [How I can help you](/services).
 
 ## About me
