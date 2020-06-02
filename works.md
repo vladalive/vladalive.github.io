@@ -1,11 +1,11 @@
 ---
 title: Work Cases
 permalink: "/work/showcase/"
-page_title: Work Showcase
-page_content: "* [GymCloud](/work/showcase/gymcloud)"
+page_title: ''
+page_content: ''
 published: false
 
 ---
-# {{ page.title }}
+# Work Showcase
 
 * [GymCloud](/work/showcase/gymcloud)
