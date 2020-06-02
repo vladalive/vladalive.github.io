@@ -17,7 +17,7 @@ fields:
   config:
     required: false
   label: Layout
-  hidden: true
+  hidden: false
 - name: published
   type: boolean
   label: Published
