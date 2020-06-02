@@ -249,7 +249,7 @@ DEPENDENCIES
   therubyracer
 
 RUBY VERSION
-   ruby 2.4.0p0
+   ruby 2.6.6p146
 
 BUNDLED WITH
    1.17.3
