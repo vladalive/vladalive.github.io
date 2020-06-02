@@ -17,3 +17,5 @@ fields:
     schema:
       format: markdown
   label: Page Content
+pages:
+- works.md
