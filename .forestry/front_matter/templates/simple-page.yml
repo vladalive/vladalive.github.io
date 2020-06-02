@@ -16,4 +16,5 @@ fields:
 pages:
 - contact.md
 - index.md
+- services/code-review-retro.md
 - works.md
