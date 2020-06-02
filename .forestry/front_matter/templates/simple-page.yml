@@ -22,5 +22,10 @@ fields:
     schema:
       format: markdown
   label: Page Content
+- name: default_jekyll_fields
+  type: include
+  config: {}
+  template: default-jekyll-fields
+  label: Default Jekyll Fields
 pages:
 - works.md
