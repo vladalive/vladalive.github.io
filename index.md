@@ -1,7 +1,7 @@
 ---
+published: true
 layout: page
 title: Interim CTO for hire
-published: false
 page_title: ''
 
 ---
