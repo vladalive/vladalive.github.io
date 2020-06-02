@@ -8,6 +8,11 @@ fields:
   config: {}
   template: default-jekyll-fields
   label: Default Jekyll Fields
+- name: page_title
+  type: text
+  config:
+    required: false
+  label: Page Title
 pages:
 - contact.md
 - works.md
