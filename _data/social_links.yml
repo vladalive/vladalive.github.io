@@ -1,0 +1,36 @@
+- url: 'https://m.vladalive.com'
+  title: Blog
+  ico: medium
+- url: 'https://linkedin.com/in/vladalive'
+  title: LinkedIn
+  ico: linkedin
+- url: 'https://angel.co/vladalive'
+  title: Angel List
+  ico: angellist
+- url: 'https://twitter.com/vladalive'
+  title: Twitter
+  ico: twitter
+- url: 'https://www.instagram.com/vlad_alive'
+  title: Instagram
+  ico: instagram
+- url: 'https://www.facebook.com/vlad.alive'
+  title: Facebook
+  ico: facebook
+- url: 'https://github.com/vladalive'
+  title: GitHub
+  ico: github
+- url: 'https://www.quora.com/profile/Vlad-Alive'
+  title: Quora
+  ico: quora
+- url: 'https://telegram.me/vladalive'
+  title: Telegram
+  ico: telegram
+- url: 'skype:vlad.alive?chat'
+  title: Skype
+  ico: skype
+- url: 'mailto:vladalive@gmail.com'
+  title: Email
+  ico: envelope-o
+- url: 'https://goo.gl/forms/cfQXHh2SIfbDwWai2'
+  title: Send Message
+  ico: comments-o
