@@ -1,23 +1,14 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    {% include head.html %}
-  </head>
+---
+layout: base
+---
+<div id="container">
+  <div class="inner">
+    {% include header.html %}
+    <section id="main_content">
+      {{ content }}
+    </section>
+    <footer>
+    </footer>
+  </div>
+</div>
 
-  <body>
-    <div id="container">
-      <div class="inner">
-        {% include header.html %}
-        <section id="main_content">
-          {{ content }}
-        </section>
-        <footer>
-        </footer>
-      </div>
-    </div>
-
-    {% include hubspot.html %}
-    {% include drip.html %}
-    {% include ga.html %}
-  </body>
-</html>
