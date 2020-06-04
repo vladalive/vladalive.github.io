@@ -1,7 +1,7 @@
 ---
 published: true
-permalink: "/work/showcase/gymcloud"
-layout: page
+permalink: "/developer/work/showcase/gymcloud"
+layout: developer/page
 title: GymCloud - Work Showcase
 page_title: "Work Showcase: GymCloud"
 

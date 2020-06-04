@@ -1,7 +1,7 @@
 ---
 published: true
-permalink: "/work/showcase/"
-layout: page
+permalink: "/developer/work/showcase/"
+layout: developer/page
 title: Work Cases
 page_title: Work Showcase
 

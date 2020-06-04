@@ -1,6 +1,7 @@
 ---
 published: true
-layout: page
+permalink: "/developer/"
+layout: developer/page
 title: Interim CTO for hire
 page_title: ''
 

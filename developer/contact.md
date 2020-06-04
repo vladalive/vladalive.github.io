@@ -1,7 +1,7 @@
 ---
 published: true
-permalink: "/contact"
-layout: page
+permalink: "/developer/contact"
+layout: developer/page
 title: Contact Me
 page_title: Contact Me
 

@@ -1,7 +1,7 @@
 ---
 published: true
-permalink: "/services/"
-layout: page
+permalink: "/developer/services/"
+layout: developer/page
 title: Services
 page_title: Services
 
