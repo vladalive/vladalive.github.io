@@ -6,7 +6,7 @@ title: Vlad Alive
 ---
 ### 💻 [Software Engineer](/developer/)
 
-### 🧔 [CTO](https://cto.vladalive.com)
+### 💼 [CTO](https://cto.vladalive.com)
 
 ### 🐵 [CTM](https://to.vladalive.com/ctm/twitch)
 
