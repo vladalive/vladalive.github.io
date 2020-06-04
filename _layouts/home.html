@@ -3,11 +3,13 @@ layout: base
 ---
 <div id="container">
   <div class="inner">
-    {% include header.html %}
+    <header>
+      {% include components/logo.html %}
+      <h1><a href="/">Vlad Alive</a></h1>
+    </header>
+    <hr>
     <section id="main_content">
       {{ content }}
     </section>
-    <footer>
-    </footer>
   </div>
 </div>
