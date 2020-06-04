@@ -12,4 +12,4 @@ title: Vlad Alive
 
 ### 🎮 [Gamer](https://to.vladalive.com/at/twitch)
 
-### 🎸 [Musician](http://to.vladalive.com/2percent)
+### 🎸 [Musician](https://to.vladalive.com/2percent)
