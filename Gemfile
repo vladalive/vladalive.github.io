@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.6.6'
+ruby File.read('.ruby-version').strip
 
 gem 'github-pages', group: :jekyll_plugins
 gem 'therubyracer', group: :development
