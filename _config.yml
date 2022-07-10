@@ -1,6 +1,7 @@
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-haml
 
 theme: jekyll-theme-tactile
 repository: vladalive/vladalive.github.io

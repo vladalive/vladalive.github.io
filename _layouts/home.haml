@@ -1,0 +1,13 @@
+---
+layout: base
+---
+#container
+  .inner
+    %header
+      {% haml components/logo.haml %}
+      %h1
+        %a{href: '/'}
+          Vlad Alive
+    %hr
+    %section#main_content
+      {{ content }}
