@@ -1,3 +1,4 @@
 .ruby-gemset
 _site/
 .jekyll-metadata
+.sass-cache/
