@@ -7,12 +7,12 @@ ruby '>= 4.0'
 # that runs here is blocked (liquid 4.0.3 needs String#tainted?, commonmarker
 # < 1.0 needs Ruby < 4.0). This Gemfile therefore reproduces the pieces the
 # site uses, for local builds only; Pages ignores it.
-gem 'jekyll', '~> 3.10.0'
+gem 'jekyll', '3.9.3'
 gem 'jekyll-theme-tactile', '0.2.0'
 gem 'kramdown-parser-gfm' # Pages default markdown setup
 
 group :jekyll_plugins do
-  gem 'jekyll-seo-tag'
+  gem 'jekyll-seo-tag', '2.8.0'
   gem 'jekyll-sitemap'
 end
 
